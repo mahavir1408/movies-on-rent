@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a0cb25bd2abb1b89c29b4e0196f9e263",
+    "revision": "404d13381a937fa2c4e1918b31272569",
     "url": "/movies-on-rent/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/movies-on-rent/static/css/2.96d3a308.chunk.css"
   },
   {
-    "revision": "9849fcb8286731fbe7c9",
+    "revision": "1b71468ebf8b4f62104c",
     "url": "/movies-on-rent/static/css/main.035ff2b0.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/movies-on-rent/static/js/2.6cae063b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9849fcb8286731fbe7c9",
-    "url": "/movies-on-rent/static/js/main.862fa46c.chunk.js"
+    "revision": "1b71468ebf8b4f62104c",
+    "url": "/movies-on-rent/static/js/main.270df17f.chunk.js"
   },
   {
     "revision": "9be3ac55791973107581",
