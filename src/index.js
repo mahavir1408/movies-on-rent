@@ -8,7 +8,7 @@ import "font-awesome/css/font-awesome.css";
 import { HashRouter } from "react-router-dom";
 
 ReactDOM.render(
-  <HashRouter basename={process.env.PUBLIC_URL}>
+  <HashRouter>
     <App />
   </HashRouter>,
   document.getElementById("root")
