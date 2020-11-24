@@ -2,7 +2,7 @@
   "name": "movies-on-rent",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://mahavir1408.github.io/movies-on-rent/",
+  "homepage": "http://mahavir1408.github.io/movies-on-rent",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
