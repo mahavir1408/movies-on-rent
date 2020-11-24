@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9fac96b66a3268253170e701b2531b8c",
+    "revision": "78cee9fb1b462840070ede2202972226",
     "url": "/movies-on-rent/index.html"
   },
   {
-    "revision": "1b2fce7c420a9e9f083d",
+    "revision": "2cda7ee82fc220f2f5eb",
     "url": "/movies-on-rent/static/css/2.96d3a308.chunk.css"
   },
   {
-    "revision": "a00b53126e7cf658cc60",
+    "revision": "26487d3ac18341dc7cca",
     "url": "/movies-on-rent/static/css/main.035ff2b0.chunk.css"
   },
   {
-    "revision": "1b2fce7c420a9e9f083d",
-    "url": "/movies-on-rent/static/js/2.6cae063b.chunk.js"
+    "revision": "2cda7ee82fc220f2f5eb",
+    "url": "/movies-on-rent/static/js/2.73c8e624.chunk.js"
   },
   {
     "revision": "c560b744118e776c5a9fe14e0546e12a",
-    "url": "/movies-on-rent/static/js/2.6cae063b.chunk.js.LICENSE.txt"
+    "url": "/movies-on-rent/static/js/2.73c8e624.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a00b53126e7cf658cc60",
-    "url": "/movies-on-rent/static/js/main.5ad97252.chunk.js"
+    "revision": "26487d3ac18341dc7cca",
+    "url": "/movies-on-rent/static/js/main.12ddb964.chunk.js"
   },
   {
     "revision": "9be3ac55791973107581",

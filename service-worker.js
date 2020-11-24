@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/movies-on-rent/precache-manifest.e5c415c11d4254b8cec5e4093adc01e3.js"
+  "/movies-on-rent/precache-manifest.3507972bdbbc59d7fc412b7a93b921db.js"
 );
 
 self.addEventListener('message', (event) => {
