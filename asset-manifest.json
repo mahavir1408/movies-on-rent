@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/movies-on-rent/static/css/main.035ff2b0.chunk.css",
-    "main.js": "/movies-on-rent/static/js/main.c8d8fb44.chunk.js",
-    "main.js.map": "/movies-on-rent/static/js/main.c8d8fb44.chunk.js.map",
+    "main.js": "/movies-on-rent/static/js/main.e29880e3.chunk.js",
+    "main.js.map": "/movies-on-rent/static/js/main.e29880e3.chunk.js.map",
     "runtime-main.js": "/movies-on-rent/static/js/runtime-main.e21cec46.js",
     "runtime-main.js.map": "/movies-on-rent/static/js/runtime-main.e21cec46.js.map",
     "static/css/2.96d3a308.chunk.css": "/movies-on-rent/static/css/2.96d3a308.chunk.css",
     "static/js/2.6cae063b.chunk.js": "/movies-on-rent/static/js/2.6cae063b.chunk.js",
     "static/js/2.6cae063b.chunk.js.map": "/movies-on-rent/static/js/2.6cae063b.chunk.js.map",
     "index.html": "/movies-on-rent/index.html",
-    "precache-manifest.4940ec2cd0b94a5505ac0956cbcfc2f6.js": "/movies-on-rent/precache-manifest.4940ec2cd0b94a5505ac0956cbcfc2f6.js",
+    "precache-manifest.02cd91c675375842f199909b41c41977.js": "/movies-on-rent/precache-manifest.02cd91c675375842f199909b41c41977.js",
     "service-worker.js": "/movies-on-rent/service-worker.js",
     "static/css/2.96d3a308.chunk.css.map": "/movies-on-rent/static/css/2.96d3a308.chunk.css.map",
     "static/css/main.035ff2b0.chunk.css.map": "/movies-on-rent/static/css/main.035ff2b0.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.96d3a308.chunk.css",
     "static/js/2.6cae063b.chunk.js",
     "static/css/main.035ff2b0.chunk.css",
-    "static/js/main.c8d8fb44.chunk.js"
+    "static/js/main.e29880e3.chunk.js"
   ]
 }
